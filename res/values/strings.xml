@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalculator</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="connect_info">Bill Amount</string>
+    
+    <string name="edit_bill_amount">Bill Amount</string>
+    
+    <string name="checkbox_round">Round to nearest dollar</string>
+    
+    <string name="button_calculate">Calculate</string>
+    
+    <string name="text_tip_result_info">Tip: $</string>
+    
+
+</resources>
